@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+ml_pipeline.db
+model.pkl
